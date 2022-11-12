@@ -1,3 +1,3 @@
-module going/chap10/restdb
+module github.com/chrisbug/restdb
 
 go 1.19
